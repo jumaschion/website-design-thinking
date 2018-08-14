@@ -1,0 +1,101 @@
+.tudo {
+        margin: auto;
+}
+.tituloprincipal {
+    color: #5D1277;
+    font-family: 'lato', helvetica,sans-serif;
+    text-align: center;
+    margin: auto;
+}
+
+h3 {
+    color: #5D1277;
+    font-family: 'lato', helvetica,sans-serif;
+    text-align: center; 
+    margin-top: 20px;
+    font-weight: bold;  
+}
+
+img {
+    margin: 10px 50px;
+    width: 60%;
+    
+}
+
+a { 
+    padding: 10px 20px;
+    display: block;
+    border: 1px solid;
+    border-radius: 3px;
+    text-decoration: none;
+    width: 250px;
+    text-align: center; 
+   
+}
+
+.caixa {
+    display: inline-block;
+    width: 600px;
+    margin-left: 80px;
+    text-align: center;
+
+   }
+
+
+.conteudo {
+    display: inline-block;
+    width: 480px;
+    margin: 0, 50px;
+ }
+
+.btn1{
+    background-color:  #5D1277;
+    color: white;
+    margin: 10px auto;
+    transition: all .5s;
+
+}
+
+.btn1:hover{
+    background-color:  rgb(79, 102, 83);
+}
+
+
+.btn2{
+    background-color: transparent;
+    color:  #5D1277;
+    margin:0 auto;
+    border-color: #5D1277;
+
+    
+
+}
+
+.titulofases {
+    color: #5D1277;
+    font-family: 'lato', helvetica,sans-serif;
+    text-align: left; 
+    font-size: 24px;
+}
+
+.tituloconteudo {
+    color: #5D1277;
+    font-family: 'lato', helvetica,sans-serif;
+    text-align: left; 
+    font-size: 24px;
+}
+
+ol {
+    color: #5D1277;
+    font-family: 'lato', helvetica,sans-serif;
+    font-size: 18px;
+    line-height: 2.2;
+}
+
+ul {
+    color: #5D1277;
+    font-family: 'lato', helvetica,sans-serif;
+    font-size: 18px;
+    line-height: 2.2;
+
+}
